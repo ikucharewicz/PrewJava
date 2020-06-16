@@ -1,1 +1,1 @@
-# PrewJava
+# PrewJava - pierwsza część zadań
